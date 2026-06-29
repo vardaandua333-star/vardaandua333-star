@@ -3,12 +3,17 @@
 
 # 👋 Hello, I'm **Vardaan Dua**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Developer;AI+Enthusiast;Claude+Code+Developer;C+%7C+C%2B%2B+Programmer;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;AI+Enthusiast;Claude+Code+Explorer;C+%7C+C%2B%2B+Programmer;Building+Ideas+Into+Reality;Always+Learning+🚀" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vardaandua333-star&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
+
+<img src="https://img.shields.io/github/followers/vardaandua333-star?style=for-the-badge&logo=github&label=Followers"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge"/>
 
 </div>
 
@@ -19,19 +24,21 @@
 ```cpp
 class VardaanDua {
 
-public:
+private:
+
+    string Name = "Vardaan Dua";
 
     string Role = "Software Developer";
 
-    vector<string> Skills = {
+    vector<string> Languages = {
         "C",
         "C++",
         "PHP",
-        "HTML",
-        "CSS"
+        "HTML5",
+        "CSS3"
     };
 
-    vector<string> Tools = {
+    vector<string> Technologies = {
         "Claude Code",
         "Emergent.js",
         "Git",
@@ -39,28 +46,33 @@ public:
         "VS Code"
     };
 
-    string Passion = "Building practical software with clean code.";
+public:
+
+    void CurrentGoal() {
+        cout << "Build impactful software and keep learning every day.";
+    }
 
 };
 ```
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 What I'm Currently Doing
 
-- 🌱 Learning AI & Modern Software Development
-- 💻 Building Full-Stack Applications
-- ⚡ Exploring Claude Code Workflows
-- 🔥 Improving Problem Solving
-- 📖 Contributing to Open Source
+- 🌱 Learning something new every day
+- 🤖 Exploring AI-assisted development with Claude Code
+- 💻 Building web applications
+- ⚡ Improving problem-solving and DSA
+- 🌍 Contributing to open-source projects
+- 📖 Writing clean and maintainable code
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,git,github,vscode&perline=8"/>
 
 </p>
 
@@ -70,9 +82,9 @@ public:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vardaandua333-star&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=vardaandua333-star&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -82,7 +94,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vardaandua333-star&theme=github-compact&hide_border=true"/>
 
 </p>
 
@@ -92,7 +104,7 @@ public:
 
 <p align="center">
 
-<img src="https://ghchart.rshah.org/409EFF/YOUR_GITHUB_USERNAME"/>
+<img src="https://ghchart.rshah.org/58A6FF/vardaandua333-star"/>
 
 </p>
 
@@ -106,11 +118,11 @@ public:
 
 </p>
 
-> **To use your own graph, generate it with GitHub Actions in your repository and replace the image URL with your generated SVG.**
+> **Tip:** Replace this example image with your own generated 3D contribution graph using the project's GitHub Action.
 
 ---
 
-# 💭 Developer Quote
+# 💬 Random Developer Quote
 
 <p align="center">
 
@@ -120,7 +132,31 @@ public:
 
 ---
 
-# 🤝 Let's Connect
+# 📚 Currently Exploring
+
+```text
+✓ Artificial Intelligence
+
+✓ Claude Code
+
+✓ Emergent.js
+
+✓ Backend Development
+
+✓ Software Architecture
+
+✓ Open Source Development
+```
+
+---
+
+# 🎯 Developer Mindset
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -128,11 +164,17 @@ public:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vardaan-dua20/">
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;
 
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 </p>
 
@@ -140,7 +182,11 @@ public:
 
 <div align="center">
 
-### ⭐ *"Code with purpose. Learn without limits. Build what matters."*
+### 💙 Thanks for stopping by!
+
+*"Code. Learn. Create. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=130&section=footer"/>
 
 </div>
 
