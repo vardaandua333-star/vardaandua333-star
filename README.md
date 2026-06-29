@@ -1,80 +1,146 @@
 
-# Hi there 👋, I'm Vardaan Dua
+<div align="center">
 
-### 💻 Software Developer | AI Enthusiast
+# 👋 Hello, I'm **Vardaan Dua**
 
-I'm a passionate developer who enjoys building practical solutions and continuously learning new technologies. I love writing clean code, exploring AI-powered development tools, and contributing to exciting projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Developer;AI+Enthusiast;Claude+Code+Developer;C+%7C+C%2B%2B+Programmer;Always+Building+Something+New" />
 
----
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github"/>
+</p>
 
-## 🚀 About Me
-
-- 🌱 Constantly learning and improving
-- 💡 Interested in AI, software development, and problem solving
-- ⚡ Passionate about creating efficient and scalable applications
-- 🎯 Always open to learning new technologies
+</div>
 
 ---
 
-## 💻 Skills
+# 💫 About Me
 
-### Languages
-- C
-- C++
-- PHP
-- HTML5
-- CSS3
+```cpp
+class VardaanDua {
 
-### Tools & Technologies
-- Claude Code
-- Emergent.js
-- Git
-- GitHub
-- VS Code
+public:
+
+    string Role = "Software Developer";
+
+    vector<string> Skills = {
+        "C",
+        "C++",
+        "PHP",
+        "HTML",
+        "CSS"
+    };
+
+    vector<string> Tools = {
+        "Claude Code",
+        "Emergent.js",
+        "Git",
+        "GitHub",
+        "VS Code"
+    };
+
+    string Passion = "Building practical software with clean code.";
+
+};
+```
 
 ---
 
-## 📚 Currently Exploring
+# 🚀 What I'm Working On
 
-- Artificial Intelligence
-- Modern Web Development
-- Backend Development
-- Open Source
-- Software Engineering Best Practices
+- 🌱 Learning AI & Modern Software Development
+- 💻 Building Full-Stack Applications
+- ⚡ Exploring Claude Code Workflows
+- 🔥 Improving Problem Solving
+- 📖 Contributing to Open Source
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,git,github,vscode&theme=dark"/>
+
 </p>
 
 ---
 
-## 💻 Most Used Languages
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 📈 Contribution Activity
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,git,github,vscode" />
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 📅 Contribution Calendar
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+<p align="center">
+
+<img src="https://ghchart.rshah.org/409EFF/YOUR_GITHUB_USERNAME"/>
+
+</p>
 
 ---
 
-⭐ *"Keep learning. Keep building. Keep growing."*
+# 🌍 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/example/profile-night-rainbow.svg"/>
+
+</p>
+
+> **To use your own graph, generate it with GitHub Actions in your repository and replace the image URL with your generated SVG.**
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/vardaandua333-star">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vardaan-dua20/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ *"Code with purpose. Learn without limits. Build what matters."*
+
+</div>
+
