@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there 👋, I'm Vardaan Dua
 
 ### 💻 Software Developer | AI Enthusiast
@@ -78,4 +78,3 @@ I'm a passionate developer who enjoys building practical solutions and continuou
 ---
 
 ⭐ *"Keep learning. Keep building. Keep growing."*
-```
